@@ -1,0 +1,8 @@
+## Interface: 80100
+## Title: Blank
+## Notes: This add-on doesn't do anything.
+## Version: 1.0
+## SavedVariables: Settings
+## SavedVariablesPerCharacter: Settings
+
+Blank.lua
