@@ -1,4 +1,4 @@
-## Interface: 80100
+## Interface: 11302
 ## Title: Blank
 ## Notes: This add-on doesn't do anything.
 ## Version: 1.0
